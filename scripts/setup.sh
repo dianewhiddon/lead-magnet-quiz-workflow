@@ -16,8 +16,8 @@ MCP_TARGET="$REPO_ROOT/.claude/.mcp.json"
 echo "Step 1: Configure your workflow settings"
 echo "-----------------------------------------"
 
-read -p "GitHub username (for publishing repos) [diane-blip]: " github_user
-github_user=${github_user:-diane-blip}
+read -p "GitHub username (for publishing repos) [dianewhiddon]: " github_user
+github_user=${github_user:-dianewhiddon}
 
 if [ -z "$github_user" ]; then
   echo "Error: GitHub username is required."

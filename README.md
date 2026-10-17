@@ -22,7 +22,7 @@ Standalone Claude Code agentic workflows for building quiz funnels and vision bo
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/diane-blip/lead-magnet-quiz-workflow.git
+git clone https://github.com/dianewhiddon/lead-magnet-quiz-workflow.git
 cd lead-magnet-quiz-workflow
 
 # 2. Run interactive setup

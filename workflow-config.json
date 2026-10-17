@@ -1,5 +1,5 @@
 {
-  "github_username": "diane-blip",
+  "github_username": "dianewhiddon",
   "deploy": {
     "platform": "cloudflare-workers",
     "preview_platform": "cloudflare-workers"

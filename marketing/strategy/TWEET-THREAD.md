@@ -361,7 +361,7 @@ No subscriptions, no credits, no API costs (except MCP tools).
 
 Want to build your own multi-agent workflows?
 
-Check out: github.com/diane-blip/lead-magnet-quiz-workflow
+Check out: github.com/dianewhiddon/lead-magnet-quiz-workflow
 
 ---
 

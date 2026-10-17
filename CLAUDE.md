@@ -182,7 +182,7 @@ wrangler deploy
 Published to a Cloudflare preview deploy for client review of walkthrough, research, email sequences, copy explainer, and strategy pack.
 
 - Preview deploy serves the static `client-preview/` pages at a preview URL.
-- Private repo: `diane-blip/[business-name]-quiz-funnel`.
+- Private repo: `dianewhiddon/[business-name]-quiz-funnel`.
 - Final client deliverables also land in the vault at `clients/<client>/` per the Obsidian home-base rule.
 
 ### Troubleshooting
@@ -258,7 +258,7 @@ Central configuration file at the repo root:
 
 ```jsonc
 {
-  "github_username": "diane-blip",
+  "github_username": "dianewhiddon",
   "deploy": {
     "platform": "cloudflare-workers",
     "preview_platform": "cloudflare-workers"
@@ -312,7 +312,7 @@ Run the interactive setup script after cloning:
 ```
 
 This will:
-1. Confirm the GitHub username (`diane-blip`) in `workflow-config.json` and skill files
+1. Confirm the GitHub username (`dianewhiddon`) in `workflow-config.json` and skill files
 2. Configure MCP server access (Kit, build-time generation provider, Memory)
 3. Verify prerequisites (GitHub CLI, Node.js, wrangler)
 
